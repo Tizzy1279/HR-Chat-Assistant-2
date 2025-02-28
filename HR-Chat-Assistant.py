@@ -17,7 +17,7 @@ api_key = os.getenv('ANTHROPIC_AI_KEY')
 print("Current Working Directory:", os.getcwd())
 
 # Check if the file exists in the current directory
-file_path = '/workspaces/HR-Chat-Assistant/course end project 1 - the_nestle_hr_policy_pdf_2012.pdf'
+file_path = '/workspaces/HR-Chat-Assistant-2/course end project 1 - the_nestle_hr_policy_pdf_2012.pdf'
 
 if not os.path.exists(file_path):
     print(f"The file at path {file_path} does not exist.")
