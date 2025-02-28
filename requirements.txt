@@ -1,0 +1,11 @@
+gradio
+PyPDF2
+faiss-cpu
+numpy
+requests
+sentence-transformers
+python-dotenv
+Anthropic
+
+
+#pip install -r requirements.txt
